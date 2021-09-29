@@ -1,3 +1,3 @@
-<template><h2 id="papatto-teams" tabindex="-1"><a class="header-anchor" href="#papatto-teams" aria-hidden="true">#</a> Papatto Teams</h2>
-<p>ここを編集</p>
+<template><h2 id="コンセプト" tabindex="-1"><a class="header-anchor" href="#コンセプト" aria-hidden="true">#</a> コンセプト</h2>
+<p>私たちは、このアプリでファッションの在り方を変えたいと思い、このアプリを作成しました。朝の少ない時間にコーデを考えるのがめんどくさい、一度着たコーデ忘れてしまう、このような悩みを解決するためにこのサービスがあります。</p>
 </template>

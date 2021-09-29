@@ -5,50 +5,31 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "home": true,
-    "heroImage": "https://vuejs.org/images/logo.png",
-    "heroAlt": "おおの",
+    "heroImage": "/image/app_icon.png",
+    "heroAlt": "papattologo",
     "heroText": "PapattoApp",
     "tagline": "一度来たコーデは忘れない",
-    "actions": [
-      {
-        "text": "AppStore",
-        "link": "https://vuejs.org",
-        "type": "primary"
-      },
-      {
-        "text": "AppStore",
-        "link": "https://vuejs.org",
-        "type": "secondary"
-      }
-    ],
-    "features": [
-      {
-        "title": "Simplicity First",
-        "details": "Minimal setup with markdown-centered project structure helps you focus on writing."
-      },
-      {
-        "title": "Vue-Powered",
-        "details": "Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue."
-      },
-      {
-        "title": "Performant",
-        "details": "VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded."
-      }
-    ]
+    "footer": "© 2021 Papatto."
   },
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "Papatto Teams",
-      "slug": "papatto-teams",
+      "title": "コンセプト",
+      "slug": "コンセプト",
       "children": []
     }
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1632932747000,
+    "contributors": [
+      {
+        "name": "Kazunari-h",
+        "email": "kazunario456@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

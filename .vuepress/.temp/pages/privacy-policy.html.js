@@ -69,8 +69,14 @@ export const data = {
   ],
   "filePathRelative": "privacy-policy.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1632932747000,
+    "contributors": [
+      {
+        "name": "Kazunari-h",
+        "email": "kazunario456@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }
 

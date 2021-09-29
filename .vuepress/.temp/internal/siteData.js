@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/PapattoTeams/",
   "lang": "en-US",
-  "title": "",
-  "description": "",
+  "title": "Papatto",
+  "description": "クローゼットアプリ",
   "head": [],
   "locales": {}
 }

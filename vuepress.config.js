@@ -1,4 +1,6 @@
 module.exports = {
+    title: "Papatto",
+    description: "クローゼットアプリ",
     themeConfig: {
         navbar: [
             // NavbarItem

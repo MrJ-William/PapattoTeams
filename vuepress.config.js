@@ -2,6 +2,7 @@ module.exports = {
     title: "Papatto",
     description: "クローゼットアプリ",
     themeConfig: {
+        logo: "/image/app_icon.png",
         navbar: [
             // NavbarItem
             {

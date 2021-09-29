@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/",
+  "base": "PapattoTeams",
   "lang": "en-US",
   "title": "",
   "description": "",

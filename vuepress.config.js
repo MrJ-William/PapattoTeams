@@ -16,5 +16,6 @@ module.exports = {
             },
         ],
     },
+    base: "PapattoTeams",
     dest: "docs",
 };

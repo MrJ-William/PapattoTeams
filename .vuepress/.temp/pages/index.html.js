@@ -22,26 +22,18 @@ export const data = {
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1632932747000,
+    "updatedTime": 1632937165000,
     "contributors": [
       {
         "name": "Kazunari-h",
         "email": "kazunario456@gmail.com",
         "commits": 1
+      },
+      {
+        "name": "hayata-0",
+        "email": "soccerkozo8814@docomo.ne.jp",
+        "commits": 1
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

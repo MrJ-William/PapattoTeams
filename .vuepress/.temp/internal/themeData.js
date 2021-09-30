@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "/image/app_icon.png",
+  "logo": "/image/app_icon_maru.png",
   "navbar": [
     {
       "text": "HOME",

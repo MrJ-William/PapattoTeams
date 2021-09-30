@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /image/app_icon.png
+heroImage: /image/app_icon_maru.png
 heroAlt: "papattologo"
 heroText: "PapattoApp"
 tagline: "一度来たコーデは忘れない"

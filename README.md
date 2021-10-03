@@ -11,13 +11,13 @@ tagline: "一度来たコーデは忘れない"
 #     - text: "AppStore"
 #       link: "https://vuejs.org"
 #       type: "secondary"
-# features:
-# - title: コンセプト
-#   details: 私たちは、このアプリでファッションの在り方を変えたいと思い、このアプリを作成しました。朝の少ない時間にコーデを考えるのがめんどくさい、一度着たコーデ忘れてしまう、このような悩みを解決するためにこのサービスがあります。
-# - title: Vue-Powered
-#   details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-# - title: Performant
-#   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+features:
+    - title: コーデのクローゼット化
+      details: コーデをメインページで確認できる。
+    - title: 毎日のコーデを助ける
+      details: コーデに迷ったらこのアプリから過去のコーデを探しコーデに役立てることができる。
+    - title: カテゴリー分け
+      details: コーデに対してカテゴリーを付与し、カテゴリー毎に管理できる。
 footer: © 2021 Papatto.
 ---
 

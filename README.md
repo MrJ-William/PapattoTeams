@@ -4,13 +4,10 @@ heroImage: /image/app_icon_maru.png
 heroAlt: "papattologo"
 heroText: "PapattoApp"
 tagline: "一度来たコーデは忘れない"
-# actions:
-#     - text: "AppStore"
-#       link: "https://vuejs.org"
-#       type: "primary"
-#     - text: "AppStore"
-#       link: "https://vuejs.org"
-#       type: "secondary"
+ actions:
+     - text: "AppStore"
+       link: "https://apple.co/3pAinzb"
+       type: "primary"
 features:
     - title: コーデのクローゼット化
       details: コーデをメインページで確認できる。

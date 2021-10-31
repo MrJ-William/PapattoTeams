@@ -9,6 +9,13 @@ export const data = {
     "heroAlt": "papattologo",
     "heroText": "PapattoApp",
     "tagline": "一度来たコーデは忘れない",
+    "actions": [
+      {
+        "text": "AppStore",
+        "link": "https://apple.co/3pAinzb",
+        "type": "primary"
+      }
+    ],
     "features": [
       {
         "title": "コーデのクローゼット化",
@@ -36,12 +43,12 @@ export const data = {
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1633268991000,
+    "updatedTime": 1635656900000,
     "contributors": [
       {
         "name": "hayata-0",
         "email": "soccerkozo8814@docomo.ne.jp",
-        "commits": 3
+        "commits": 5
       },
       {
         "name": "Kazunari-h",

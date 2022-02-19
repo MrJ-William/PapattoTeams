@@ -57,7 +57,7 @@
 
 ## Note
  
-利用規約 https://mrj-william.github.io/mis_uni_official/
+利用規約 https://mrj-william.github.io/PapattoTeams/
  
 ## Author
 

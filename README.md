@@ -1,23 +1,65 @@
----
-home: true
-heroImage: /image/app_icon_maru.png
-heroAlt: "papattologo"
-heroText: "PapattoApp"
-tagline: "一度来たコーデは忘れない"
-actions:
-    - text: "AppStore"
-      link: "https://apple.co/3pAinzb"
-      type: "primary"
-features:
-    - title: コーデのクローゼット化
-      details: コーデをメインページで確認できる。
-    - title: 毎日のコーデを助ける
-      details: コーデに迷ったらこのアプリから過去のコーデを探しコーデに役立てることができる。
-    - title: カテゴリー分け
-      details: コーデに対してカテゴリーを付与し、カテゴリー毎に管理できる。
-footer: © 2021 Papatto.
----
+# 「Papatto」 ~ 一度着たコーデを忘れない ~
 
-## コンセプト
+<br>
+<p align="center">
+    <img alt="logo" height="260px" src="https://user-images.githubusercontent.com/59042491/154802173-6d7db3be-d9de-4fb0-8b8c-e1c80a8fa612.png" /> 
+</p>
+<h3 align="center">
+   Apple Store
+   <a align="center" href="https://apps.apple.com/jp/app/papatto-%E3%81%B1%E3%81%B1%E3%81%A3%E3%81%A8/id1587471963">Link</a>
+</h3>
 
-私たちは、このアプリでファッションの在り方を変えたいと思い、このアプリを作成しました。朝の少ない時間にコーデを考えるのがめんどくさい、一度着たコーデ忘れてしまう、このような悩みを解決するためにこのサービスがあります。
+## 概要
+
+「Papatto」はコーデをクローゼット化して、
+毎日のファッションを楽しくする仮想クローゼットアプリです。
+毎日のコーデに時間がかかる。
+服を選ぶのがめんどくさい。
+クローゼットの中にある物を忘れた。
+こういった悩みを解決するためにこのアプリはあります。
+ 
+## 開発経緯
+
+私たちは、このアプリでファッションの在り方を変えたいと思い、このアプリを作成しました。
+
+## DEMO
+<br>
+
+![image](https://user-images.githubusercontent.com/59042491/154802433-b45f436c-1ee7-497d-9fb2-d6e49b929167.png)
+
+- トップページでは自分が登録したコーデの中からランダムで画像が表示されます。
+- トップページをタップするとクローゼットリストページで登録したコーデリストを見ることができます.
+
+## Features
+ 
+**使い道**
+
+* 着たコーデを登録して毎日のコーデに役立てる
+* コーデに迷ったら過去のコーデを探しコーデに役立てることができる。
+* コーデをカテゴリー毎に分けれる
+* カテゴリーは自作のものも付与できる。
+<br>
+
+**コーデ登録機能**
+
+着たコーデを登録して毎日のコーデに役立てることができます。
+着たコーデを登録することによってコーデに迷ったらこのアプリから過去のコーデを探しコーデに役立てることができます。
+1日の始まりがこのアプリから始まっていただけると嬉しいです。
+
+**カテゴリー管理機能**
+コーデをカテゴリー毎に分けられます。
+コーデに対してカテゴリーを付与し、カテゴリー毎に管理でき、カテゴリーは自作のものも付与できます。
+
+
+## Requirement
+ 
+* iOS 15.0+
+
+## Note
+ 
+利用規約 https://mrj-william.github.io/mis_uni_official/
+ 
+## Author
+
+* yuji-S
+* Hayata Oono
